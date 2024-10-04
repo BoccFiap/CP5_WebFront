@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "BYD DOLPHIN",
+      "modelo": "SUV",
+      "description": "Este BYD combina desempenho e luxo.",
+      "price": "770.000",
+      "image": "https://www.byd.com/br/order-dolphin"
+    }
+    
+  ]
+}
